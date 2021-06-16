@@ -134,10 +134,19 @@
 		<Unit filename="D:/c++/Semester 4/Laboratorni3/SortCompare/sorting.h">
 			<Option target="SortCompare"/>
 		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni3/SortCompare/test.cpp">
+			<Option target="SortCompare"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni3/SortCompare/test.h">
+			<Option target="SortCompare"/>
+		</Unit>
 		<Unit filename="D:/c++/Semester 4/Laboratorni3/SortCompare/testsort.cpp">
 			<Option target="SortCompare"/>
 		</Unit>
 		<Unit filename="D:/c++/Semester 4/Laboratorni3/SortCompare/testsort.h">
+			<Option target="SortCompare"/>
+		</Unit>
+		<Unit filename="D:/c++/Semester 4/Laboratorni3/SortCompare/unit_test_framework.h">
 			<Option target="SortCompare"/>
 		</Unit>
 		<Unit filename="D:/c++/Semester 4/Laboratorni3/build-SortCompare-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug/SortCompare_autogen/mocs_compilation.cpp">

@@ -76,9 +76,19 @@
 			"EWIEGA46WW/moc_sorting.cpp"
 		],
 		[
+			"D:/c++/Semester 4/Laboratorni3/SortCompare/test.h",
+			"MU",
+			"EWIEGA46WW/moc_test.cpp"
+		],
+		[
 			"D:/c++/Semester 4/Laboratorni3/SortCompare/testsort.h",
 			"MU",
 			"EWIEGA46WW/moc_testsort.cpp"
+		],
+		[
+			"D:/c++/Semester 4/Laboratorni3/SortCompare/unit_test_framework.h",
+			"MU",
+			"EWIEGA46WW/moc_unit_test_framework.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -123,6 +133,7 @@
 		[ "D:/c++/Semester 4/Laboratorni3/SortCompare/main.cpp", "MU" ],
 		[ "D:/c++/Semester 4/Laboratorni3/SortCompare/mainwindow.cpp", "MU" ],
 		[ "D:/c++/Semester 4/Laboratorni3/SortCompare/sorting.cpp", "MU" ],
+		[ "D:/c++/Semester 4/Laboratorni3/SortCompare/test.cpp", "MU" ],
 		[ "D:/c++/Semester 4/Laboratorni3/SortCompare/testsort.cpp", "MU" ]
 	],
 	"UIC_OPTIONS" : [],

@@ -37,6 +37,8 @@ if(ANDROID)
     testsort.cpp
     testsort.h
     unit_test_framework.h
+    test.h
+    test.cpp
   )
 else()
   add_executable(SortCompare
@@ -49,6 +51,8 @@ else()
     testsort.cpp
     testsort.h
     unit_test_framework.h
+    test.h
+    test.cpp
   )
 endif()
 

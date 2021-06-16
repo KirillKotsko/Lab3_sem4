@@ -100,6 +100,15 @@ build CMakeFiles\SortCompare.dir\testsort.cpp.obj: CXX_COMPILER__SortCompare_Deb
   TARGET_COMPILE_PDB = CMakeFiles\SortCompare.dir\
   TARGET_PDB = SortCompare.pdb
 
+build CMakeFiles\SortCompare.dir\test.cpp.obj: CXX_COMPILER__SortCompare_Debug D$:\c++\Semester$ 4\Laboratorni3\SortCompare\test.cpp || cmake_object_order_depends_target_SortCompare
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  INCLUDES = -I. -I"D:\c++\Semester 4\Laboratorni3\SortCompare" -ISortCompare_autogen\include -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtWidgets -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtGui -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtANGLE -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\include\QtCore -IC:\Qt\Qt5.12.7\5.12.7\msvc2017\.\mkspecs\win32-msvc
+  OBJECT_DIR = CMakeFiles\SortCompare.dir
+  OBJECT_FILE_DIR = CMakeFiles\SortCompare.dir
+  TARGET_COMPILE_PDB = CMakeFiles\SortCompare.dir\
+  TARGET_PDB = SortCompare.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target SortCompare
@@ -108,7 +117,7 @@ build CMakeFiles\SortCompare.dir\testsort.cpp.obj: CXX_COMPILER__SortCompare_Deb
 #############################################
 # Link the executable SortCompare.exe
 
-build SortCompare.exe: CXX_EXECUTABLE_LINKER__SortCompare_Debug CMakeFiles\SortCompare.dir\SortCompare_autogen\mocs_compilation.cpp.obj CMakeFiles\SortCompare.dir\main.cpp.obj CMakeFiles\SortCompare.dir\mainwindow.cpp.obj CMakeFiles\SortCompare.dir\sorting.cpp.obj CMakeFiles\SortCompare.dir\testsort.cpp.obj | C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Widgetsd.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Guid.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Cored.lib || SortCompare_autogen
+build SortCompare.exe: CXX_EXECUTABLE_LINKER__SortCompare_Debug CMakeFiles\SortCompare.dir\SortCompare_autogen\mocs_compilation.cpp.obj CMakeFiles\SortCompare.dir\main.cpp.obj CMakeFiles\SortCompare.dir\mainwindow.cpp.obj CMakeFiles\SortCompare.dir\sorting.cpp.obj CMakeFiles\SortCompare.dir\testsort.cpp.obj CMakeFiles\SortCompare.dir\test.cpp.obj | C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Widgetsd.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Guid.lib C$:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Cored.lib || SortCompare_autogen
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:X86 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = C:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Widgetsd.lib  C:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Guid.lib  C:\Qt\Qt5.12.7\5.12.7\msvc2017\lib\Qt5Cored.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
