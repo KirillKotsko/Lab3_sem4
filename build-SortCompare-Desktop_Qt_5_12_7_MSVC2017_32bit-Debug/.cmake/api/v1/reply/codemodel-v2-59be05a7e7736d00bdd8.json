@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SortCompare",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SortCompare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SortCompare-Debug-34c3b107f36e345045f4.json",
+					"name" : "SortCompare",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SortCompare_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SortCompare_autogen-Debug-5aae95193a2b6884344b.json",
+					"name" : "SortCompare_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/c++/Semester 4/Laboratorni3/build-SortCompare-Desktop_Qt_5_12_7_MSVC2017_32bit-Debug",
+		"source" : "D:/c++/Semester 4/Laboratorni3/SortCompare"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
